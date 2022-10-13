@@ -210,6 +210,8 @@ body{
 .footer-icon{
   text-align: center;
   width: 25px;
+  height: 25px;
   color: black;
   background-color: white;
+  border-radius: 20%;
 }
